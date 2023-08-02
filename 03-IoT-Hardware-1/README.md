@@ -37,4 +37,21 @@ VR2 = I2 x R2
 
 ![Untitled](https://skilvul-prod-01.s3.ap-southeast-1.amazonaws.com/lesson/iot/IoT+Assignments+Assets/IoT+Hardware/r_total.png)
 
+Rs 1    = R1 + R2
+        = 3 + 3 = 6
+Rs 2    = R3 + R4
+        = 3 + 3 = 6
+Rptot1  = 1/6 + 1/6
+        = 2/6
+1/Rp    = 2/6
+Rp1      = 6/2 = 3
 
+
+Rptot2  = 1/4 + 1/4
+        = 2/4
+1/Rp    = 2/4
+Rp2      = 4/2 = 2
+
+Rtot    = Rp1 + R5 + Rp2
+        = 3 + 5 + 2
+        = 10 Ohm
