@@ -22,49 +22,51 @@ Mohon menjawab pertanyaan yang ada dibawah ini, untuk menjawabnya kalian dapat *
 ![Untitled](https://skilvul-prod-01.s3.ap-southeast-1.amazonaws.com/lesson/iot/IoT+Assignments+Assets/IoT+Hardware/voltage_divider.png)
 
 **Jawaban Soal Nomor 2**
-I   = V/Rtot
-    = 30/30
-    = 1A
+I   
+V/Rtot
+    
+= 30/30
+
+= 1A
 
 VR2 = I2 x R2
 
-    = 1 x 10
+= 1 x 10
     
-    = 10V
+= 10V
 
-3. Berpakah total hambatan dalam rangkaian berikut:
+3. Berapakah total hambatan dalam rangkaian berikut:
 
 ![Untitled](https://skilvul-prod-01.s3.ap-southeast-1.amazonaws.com/lesson/iot/IoT+Assignments+Assets/IoT+Hardware/r_total.png)
 
-Rs 1    = R1 + R2
+**Jawaban Soal Nomor 3**
 
-        = 3 + 3 = 6
+Rs 1 = R1 + R2
 
-Rs 2    = R3 + R4
+= 3 + 3 = 6
 
-        = 3 + 3 = 6
+Rs 2 = R3 + R4
 
-Rptot1  = 1/6 + 1/6
+= 3 + 3 = 6
 
-        = 2/6
-1/Rp    = 2/6
+Rptot1 = 1/6 + 1/6
 
-Rp1      = 6/2 
-        
-        = 3
+= 2/6
 
-Rptot2  = 1/4 + 1/4
+1/Rp = 2/6
 
-        = 2/4
+Rp1 = 6/2 = 3
 
-1/Rp    = 2/4
+Rptot2 = 1/4 + 1/4
 
-Rp2     = 4/2 
-        
-        = 2
+= 2/4
 
-Rtot    = Rp1 + R5 + Rp2
+1/Rp = 2/4
 
-        = 3 + 5 + 2
+Rp2 = 4/2 = 2
 
-        = 10 Ohm
+Rtot = Rp1 + R5 + Rp2
+
+= 3 + 5 + 2
+
+= 10 Ohm
