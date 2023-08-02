@@ -21,10 +21,9 @@ Mohon menjawab pertanyaan yang ada dibawah ini, untuk menjawabnya kalian dapat *
 
 ![Untitled](https://skilvul-prod-01.s3.ap-southeast-1.amazonaws.com/lesson/iot/IoT+Assignments+Assets/IoT+Hardware/voltage_divider.png)
 
+**Jawaban Soal Nomor 2**
 I   = V/Rtot
-    
     = 30/30
-    
     = 1A
 
 VR2 = I2 x R2
