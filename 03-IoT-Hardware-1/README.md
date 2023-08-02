@@ -21,7 +21,7 @@ Mohon menjawab pertanyaan yang ada dibawah ini, untuk menjawabnya kalian dapat *
 
 ![Untitled](https://skilvul-prod-01.s3.ap-southeast-1.amazonaws.com/lesson/iot/IoT+Assignments+Assets/IoT+Hardware/voltage_divider.png)
 
-I   = V/R
+I   = V/Rtot
     
     = 30/30
     
