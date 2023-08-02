@@ -15,6 +15,7 @@ Mohon menjawab pertanyaan yang ada dibawah ini, untuk menjawabnya kalian dapat *
 
 1. Buatlah sebuah rangkaian listrik menggunakan konsep voltage divider, dimana diberikan Vin = 5v dan Vout = 3.3V! ( Sertakan gambar schematic pada jawabannya! )
 
+![Schematic](Voltage%20Divider.png)
 
 2. Berapakah $VR2$ pada rangkaian berikut?
 
