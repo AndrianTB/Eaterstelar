@@ -44,15 +44,17 @@ VR2 = I2 x R2
 
 **Jawaban Soal Nomor 3**
 
-Rs 1 = R1 + R2
+Rs1 = R1 + R2
 
 = 3 + 3 = 6
 
-Rs 2 = R3 + R4
+Rs2 = R3 + R4
 
 = 3 + 3 = 6
 
-Rptot1 = 1/6 + 1/6
+Rptot1 = 1/Rs1 + 1/Rs2 
+
+= 1/6 + 1/6
 
 = 2/6
 
@@ -60,7 +62,9 @@ Rptot1 = 1/6 + 1/6
 
 Rp1 = 6/2 = 3
 
-Rptot2 = 1/4 + 1/4
+Rptot2 = 1/R6 + 1/R7
+
+= 1/4 + 1/4
 
 = 2/4
 
@@ -72,4 +76,6 @@ Rtot = Rp1 + R5 + Rp2
 
 = 3 + 5 + 2
 
-= 10 Ohm
+= **10 Ohm**
+
+Jadi, total hambatan pada rangkaian tersebut yaitu **10 Ohm**
